@@ -2,6 +2,11 @@
 
 <h2>👨‍💻 General IT Projects:</h2>
 
+Active Directory Project:
+
+Troubleshooting experience / Knowledge base:
+
+
 <h2> 🤳 Connect with me:</h2>
 
 
